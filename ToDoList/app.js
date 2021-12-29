@@ -16,7 +16,7 @@ app.use(express.static("public"));
 // const workItems = [];
 
 //connecting app.js to mongoose
-mongoose.connect("mongodb+srv://dr_ramix:ramtin2003@cluster0.wdu1z.mongodb.net/newToDoListDB", {useNewUrlParser: true});
+mongoose.connect("mongodb+srv://yourusername:<password>@cluster0.wdu1z.mongodb.net/newToDoListDB", {useNewUrlParser: true});
 
 //creating a Schema for items
 const itemsSchema = {

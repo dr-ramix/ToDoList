@@ -1,5 +1,5 @@
 # ToDoList
-This Todo list app is made with Node JS, which is a Web-framework for Javasript. https://fathomless-oasis-61717.herokuapp.com/
+This Todo list app was made with Node JS, which is a Web-framework for Javasript. https://fathomless-oasis-61717.herokuapp.com/
 This application was published on heroku server and its database is on MangoDB Atlas.
 You will find it on this URL: https://fathomless-oasis-61717.herokuapp.com/
 ***Attention*** This application is not mobile friendly, because I made it to improve my knowledge in Back-end and databace seviece and not in Front-end skills.
